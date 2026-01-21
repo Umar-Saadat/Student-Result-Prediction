@@ -1,6 +1,6 @@
 Student Result Prediction
 📌 Algorithm: Logistic Regression
-🖼️ Image: Student.PNG
+🖼️ Image: ![Student Result Prediction](Student.PNG)
 
 📖 Description
 
